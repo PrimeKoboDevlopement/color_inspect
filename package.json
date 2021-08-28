@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "description": "Currently aiming to Inspect multiple colors.",
     "main": "index.js",
+    "keywords": ["colot", "inspect"],
     "repository": {
         "url": "https://github.com/PrimeKoboDevlopement/color_inspect",
         "type": "git"
